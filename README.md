@@ -39,7 +39,7 @@ Sou apaixonado por pesquisar atualidades e coisas novas relacionadas a area. Acr
 
 <!-- GIF -->
 <p align="left">
-  <img align="center" src="https://github.com/gSantosX/gSantosX/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
+  <img align="center" src="https://pin.it/38zABKOmo" alt="Imagem">
 </p>
 
 ## 🔥 Skills
