@@ -37,7 +37,7 @@ Sou apaixonado por pesquisar atualidades e coisas novas relacionadas a area. Acr
 - [Client Registry System](https://github.com/VariableBee/Cartorio)
 
 <!-- GIF -->
-<p style="align: center">
+<p style="text-align: center;">
 <br><img align="center" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bWdrcHI5ajgyMG10YWhudHB6dHExcGYzNDNzYjZhdmhpNGR6ZHpyOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1C8bHHJturSx2/giphy.gif" alt="Imagem">
 </p>
 
