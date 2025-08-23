@@ -8,7 +8,9 @@
 <p>
 Olá! 👋
 Meu nome é Gustavo, sou estudante de Análise e Desenvolvimento de Sistemas na Unicesumar (3º período) e um entusiasta da tecnologia. Atualmente, busco minha primeira oportunidade na área de front-end, onde pretendo aplicar e expandir meus conhecimentos em desenvolvimento web. Meu objetivo a médio/longo prazo é me tornar um desenvolvedor full-stack, contribuindo com soluções completas e inovadoras. Estou sempre aberto a novos aprendizados e desafios! 😊 <br>
-  <br><img style="justify-content: center" width="300" height="300" alt="html5" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
+<div style="display: flex; justify-content: center;">
+  <img width="300" height="300" alt="html5" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
+</div>
 </p>
 <!-- Dropdown -->
 <details>
@@ -21,7 +23,7 @@ Sou apaixonado por pesquisar atualidades e coisas novas relacionadas a area. Acr
 </details>
 
 <!-- Links -->
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.[[instagram.com/gusantttos/])
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gusantttos/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavossantoss/)
 
 <!-- GithubStats -->
