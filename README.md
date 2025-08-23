@@ -6,9 +6,10 @@
 
 <!-- Presentation -->
 <p>
-Hi 👋, Tudo beleza, me chamo Gustavo, sou estudante apaixonado por tecnologia.<br>
-Atualmente estou cursando Análises e Desenvolvimentos de Sistemas pela Unicesumar no 3° periodo.<br>
-Estou em busca do meu primeiro trabalho com front-end. Meu grande sonho e aprender o bastante para que um dia trabalhe como Full-Stack.<br>
+Olá! 👋
+Meu nome é Gustavo, sou estudante de Análise e Desenvolvimento de Sistemas na Unicesumar (3º período) e um entusiasta da tecnologia.
+Atualmente, busco minha primeira oportunidade na área de front-end, onde pretendo aplicar e expandir meus conhecimentos em desenvolvimento web. Meu objetivo a médio/longo prazo é me tornar um desenvolvedor full-stack, contribuindo com soluções completas e inovadoras.
+Estou sempre aberto a novos aprendizados e desafios! 😊
  <img justify-content: center align: center width="300" height="300" alt="html5" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 </p>
 
