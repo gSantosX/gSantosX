@@ -8,9 +8,9 @@
 <p>
   Hi 👋, Tudo beleza, me chamo Gustavo, sou estudante apaixonado por tecnologia.
 
-  - 🌱 Atualmente estou cursando Análises e Desenvolvimentos de Sistemas pela Unicesumar no 3° periodo <img justify-content: flex-end "alt="html5" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" />
+Atualmente estou cursando Análises e Desenvolvimentos de Sistemas pela Unicesumar no 3° periodo <img justify-content: flex-end width="100" height="100" alt="html5" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
-  - 🔭 Estou em busca do meu primeiro trabalho com front-end. Meu grande sonho e aprender o bastante para que um dia trabalhe como Full-Stack.
+Estou em busca do meu primeiro trabalho com front-end. Meu grande sonho e aprender o bastante para que um dia trabalhe como Full-Stack.
 </p>
 
 <!-- Dropdown -->
