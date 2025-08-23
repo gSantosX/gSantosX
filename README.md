@@ -38,7 +38,7 @@ Sou apaixonado por pesquisar atualidades e coisas novas relacionadas a area. Acr
 
 <!-- GIF -->
 <p style="align: center">
-<br><img align="center" src="https://pin.it/38zABKOmo" alt="Imagem">
+<br><img align="center" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bWdrcHI5ajgyMG10YWhudHB6dHExcGYzNDNzYjZhdmhpNGR6ZHpyOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1C8bHHJturSx2/giphy.gif" alt="Imagem">
 </p>
 
 ## 🔥 Skills
