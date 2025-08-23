@@ -14,9 +14,10 @@ Meu nome é Gustavo, sou estudante de Análise e Desenvolvimento de Sistemas na 
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I am 28 years old, currently living in Brazil. I have fluency in English and have experience with SQL, Java, HTML5, CSS, and de JavaScript. I'm also a content creator on YouTube since 2018, which helped me develop important skills such as creativity, communication, marketing, analytical capability, community and social media management.
+Tenho 28 anos, resido no Brasil estou estudando inglês, no entanto meu inglês está caominhando para o intermediado, com foco alcançaremos a fluência. Minha experiência (estudos) inclui o uso de SQL, Java, HTML5, CSS e JavaScript. Gosto muito de estudar as ferramentas de tecnologia desde as de programação e de desenvolvimento, acredito que meus trabalhos anteriores mesmo que não relacionados a area de TI, me ajudaram a desenvolver habilidades essenciais como criatividade, comunicação, liderança, foco em detalhes e lógica.
 
-  - ⚡ I enjoy reading, whether it's a good book, manga, or comics, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
+Interesses pessoais:
+Sou apaixonado por pesquisar atualidades e coisas novas relacionadas a area. Acredito que esses interesses ampliam minha percepção e me ajudam a encontrar soluções criativas e inovadoras no dia a dia! \o/
 </details>
 
 <!-- Links -->
@@ -24,7 +25,7 @@ Meu nome é Gustavo, sou estudante de Análise e Desenvolvimento de Sistemas na 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavossantoss/)
 
 <!-- GithubStats -->
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=gSantosX&show_icons=true&theme=gotham)
+![gSantosX GitHub stats](https://github-readme-stats.vercel.app/api?username=gSantosX&show_icons=true&theme=gotham)
 
 <!-- Portfolio -->
 ## Portfolio:
@@ -36,7 +37,7 @@ Meu nome é Gustavo, sou estudante de Análise e Desenvolvimento de Sistemas na 
 
 <!-- GIF -->
 <p align="left">
-  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
+  <img align="center" src="https://github.com/gSantosX/gSantosX/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
 </p>
 
 ## 🔥 Skills
