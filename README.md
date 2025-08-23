@@ -38,9 +38,7 @@ Sou apaixonado por pesquisar atualidades e coisas novas relacionadas a area. Acr
 - [Client Registry System](https://github.com/VariableBee/Cartorio)
 
 <!-- GIF -->
-<p align="left">
-  <img align="center" src="https://pin.it/38zABKOmo" alt="Imagem">
-</p>
+<br><br><img align="center" src="https://pin.it/38zABKOmo" alt="Imagem">
 
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
