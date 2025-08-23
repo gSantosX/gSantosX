@@ -37,7 +37,9 @@ Sou apaixonado por pesquisar atualidades e coisas novas relacionadas a area. Acr
 - [Client Registry System](https://github.com/VariableBee/Cartorio)
 
 <!-- GIF -->
-<br><br><img align="center" src="https://pin.it/38zABKOmo" alt="Imagem">
+<p style="align: center">
+<br><img align="center" src="https://pin.it/38zABKOmo" alt="Imagem">
+</p>
 
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
@@ -55,7 +57,4 @@ Sou apaixonado por pesquisar atualidades e coisas novas relacionadas a area. Acr
   <div style="flex-basis: 48%;">
     <h3>Tools & Frameworks</h3>
     <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-    <img align="center" alt="Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
-    <img align="center" alt="Chris-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-    <img align="center" alt="Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
   </div>
