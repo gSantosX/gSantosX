@@ -22,7 +22,7 @@
       <summary>👨‍💻 More about me</summary>
         <p></p>
           Tenho 28 anos, resido no Brasil estou estudando inglês, no entanto meu inglês está caominhando para o intermediado, com foco alcançaremos a fluência. Minha experiência (estudos) inclui o uso de             SQL,        Java, HTML5, CSS e JavaScript. Gosto muito de estudar as ferramentas de tecnologia desde as de programação e de desenvolvimento, acredito que meus trabalhos anteriores mesmo que não             relacionados a          area     de TI, me ajudaram a desenvolver habilidades essenciais como criatividade, comunicação, liderança, foco em detalhes e lógica.<br>
-          <h3>Interesses pessoais:</h3><br>
+          <h3>Interesses pessoais:</h3>
           Sou apaixonado por pesquisar atualidades e coisas novas relacionadas a area. Acredito que esses interesses ampliam minha percepção e me ajudam a encontrar soluções criativas e inovadoras no dia a           dia!      \o/
         </p>
     </details>
@@ -30,14 +30,20 @@
 </div>
 
 <!-- Links -->
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gusantttos/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavossantoss/)
-<a href = "mailto:ovatsug4212@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
+<div id="user-content-toc">
+  <ul align="center">
+    [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gusantttos/)
+    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavossantoss/)
+    <a href = "mailto:ovatsug4212@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  </ul>
+</div>
 <!-- GithubStats -->
-![gSantosX GitHub stats](https://github-readme-stats.vercel.app/api?username=gSantosX&show_icons=true&theme=gotham)
-<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gSantosX&layout=compact&langs_count=7&theme=gotham"/>
-
+<div id="user-content-toc">
+  <ul align="center">
+    ![gSantosX GitHub stats](https://github-readme-stats.vercel.app/api?username=gSantosX&show_icons=true&theme=gotham)
+    <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gSantosX&layout=compact&langs_count=7&theme=gotham"/>
+  </ul>
+</div>
 <!-- Portfolio -->
 ## Portfolio:
 - [Auto Excellence System](https://github.com/gSantosX/Projeto-OS-Funilaria.git)
