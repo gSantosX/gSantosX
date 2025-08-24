@@ -46,7 +46,7 @@
      <ul align="center">
         <h2>Projetos: </h2>
            <p>
-            <a href="https://github.com/gSantosX/Projeto-OS-Funilaria.git">Auto Excellence System</a>
+            <a href="https://github.com/gSantosX/Projeto-OS-Funilaria.git">Auto Excellence System</a><br>
            </p>
      </ul>
   </div>
@@ -59,7 +59,6 @@
     </p>
   </ul>
 </div>
-##
 <!-- Skills: Programming Languages -->
   <div style="flex-basis: 48%; id="user-content-toc">
      <ul align="center">
