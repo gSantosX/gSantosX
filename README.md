@@ -10,8 +10,9 @@
     <p>
     Olá! 👋
     Meu nome é Gustavo, sou estudante de Análise e Desenvolvimento de Sistemas na Unicesumar (3º período) e um entusiasta da tecnologia. Atualmente, busco minha primeira oportunidade na área de front-end,      onde pretendo aplicar e expandir meus conhecimentos em desenvolvimento web. Meu objetivo a médio/longo prazo é me tornar um desenvolvedor full-stack, contribuindo com soluções completas e inovadoras.       Estou sempre aberto a novos aprendizados e desafios! 😊 <br>
-    <p style="align: center">
-      <img width="300" height="300" alt="html5" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
+      <p style="align: center">
+        <img width="500" height="300" alt="html5" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
+      </p>
     </p>
   </ul>
 </div>
@@ -45,8 +46,13 @@
 - [Auto Excellence System](https://github.com/gSantosX/Projeto-OS-Funilaria.git)
 
 <!-- GIF -->
-<p style="text-align: center;">
-<br><img align="center" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bWdrcHI5ajgyMG10YWhudHB6dHExcGYzNDNzYjZhdmhpNGR6ZHpyOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1C8bHHJturSx2/giphy.gif" alt="Imagem">
+<div id="user-content-toc">
+  <ul align="center">
+    <p style="text-align: center;">
+      <img align="center" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bWdrcHI5ajgyMG10YWhudHB6dHExcGYzNDNzYjZhdmhpNGR6ZHpyOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1C8bHHJturSx2/giphy.gif" alt="Imagem">
+    </p>
+  </ul>
+</div>
 
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
