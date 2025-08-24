@@ -42,8 +42,14 @@
 <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gSantosX&layout=compact&langs_count=7&theme=gotham"/>
 
 <!-- Portfolio -->
-## Portfolio:
-- [Auto Excellence System](https://github.com/gSantosX/Projeto-OS-Funilaria.git)
+  <div style="flex-basis: 48%; id="user-content-toc">
+     <ul align="center">
+        <h2>Projetos: </h2>
+           <p>
+            * [Auto Excellence System](https://github.com/gSantosX/Projeto-OS-Funilaria.git)
+           </p>
+     </ul>
+  </div>
 
 <!-- GIF -->
 <div id="user-content-toc">
