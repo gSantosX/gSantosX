@@ -24,6 +24,7 @@ Sou apaixonado por pesquisar atualidades e coisas novas relacionadas a area. Acr
 <!-- Links -->
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gusantttos/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavossantoss/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
 
 <!-- GithubStats -->
 ![gSantosX GitHub stats](https://github-readme-stats.vercel.app/api?username=gSantosX&show_icons=true&theme=gotham)
