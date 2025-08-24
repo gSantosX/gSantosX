@@ -16,14 +16,18 @@
   </ul>
 </div>
 <!-- Dropdown -->
-<details>
-  <summary>👨‍💻 More about me</summary>
-
-Tenho 28 anos, resido no Brasil estou estudando inglês, no entanto meu inglês está caominhando para o intermediado, com foco alcançaremos a fluência. Minha experiência (estudos) inclui o uso de SQL, Java, HTML5, CSS e JavaScript. Gosto muito de estudar as ferramentas de tecnologia desde as de programação e de desenvolvimento, acredito que meus trabalhos anteriores mesmo que não relacionados a area de TI, me ajudaram a desenvolver habilidades essenciais como criatividade, comunicação, liderança, foco em detalhes e lógica.
-
-Interesses pessoais:
-Sou apaixonado por pesquisar atualidades e coisas novas relacionadas a area. Acredito que esses interesses ampliam minha percepção e me ajudam a encontrar soluções criativas e inovadoras no dia a dia! \o/
-</details>
+<div id="user-content-toc">
+  <ul align="center">
+    <details>
+      <summary>👨‍💻 More about me</summary>
+        <p></p>
+          Tenho 28 anos, resido no Brasil estou estudando inglês, no entanto meu inglês está caominhando para o intermediado, com foco alcançaremos a fluência. Minha experiência (estudos) inclui o uso de             SQL,        Java, HTML5, CSS e JavaScript. Gosto muito de estudar as ferramentas de tecnologia desde as de programação e de desenvolvimento, acredito que meus trabalhos anteriores mesmo que não             relacionados a          area     de TI, me ajudaram a desenvolver habilidades essenciais como criatividade, comunicação, liderança, foco em detalhes e lógica.<br>
+          <h3>Interesses pessoais:</h3><br>
+          Sou apaixonado por pesquisar atualidades e coisas novas relacionadas a area. Acredito que esses interesses ampliam minha percepção e me ajudam a encontrar soluções criativas e inovadoras no dia a           dia!      \o/
+        </p>
+    </details>
+   </ul>
+</div>
 
 <!-- Links -->
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gusantttos/)
