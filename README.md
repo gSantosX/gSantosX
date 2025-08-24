@@ -8,8 +8,8 @@
 <div id="user-content-toc">
   <ul align="center">
     <p>
-    Olá! 👋
-    Meu nome é Gustavo, sou estudante de Análise e Desenvolvimento de Sistemas na Unicesumar (3º período) e um entusiasta da tecnologia. Atualmente, busco minha primeira oportunidade na área de front-end,      onde pretendo aplicar e expandir meus conhecimentos em desenvolvimento web. Meu objetivo a médio/longo prazo é me tornar um desenvolvedor full-stack, contribuindo com soluções completas e inovadoras.       Estou sempre aberto a novos aprendizados e desafios! 😊 <br>
+    Olá! 👋<br>
+    Meu nome é Gustavo, sou estudante de Análise e Desenvolvimento de Sistemas na Unicesumar (3º período) e um entusiasta da tecnologia. Atualmente, busco minha primeira oportunidade na área de front-end,      onde pretendo aplicar e expandir meus conhecimentos em desenvolvimento web. Meu objetivo a médio/longo prazo é me tornar um desenvolvedor full-stack, contribuindo com soluções completas e inovadoras.       Estou sempre aberto a novos aprendizados e desafios!<br>😊
       <p style="align: center">
         <img width="500" height="300" alt="html5" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
       </p>
@@ -21,8 +21,8 @@
 <div id="user-content-toc">
   <ul align="center">
     <details>
-      <summary>👨‍💻 More about me</summary>
-        <p></p>
+      <summary>👨‍💻 Mais sobre:</summary>
+        <p>
           Tenho 28 anos, resido no Brasil estou estudando inglês, no entanto meu inglês está caominhando para o intermediado, com foco alcançaremos a fluência. Minha experiência (estudos) inclui o uso de             SQL,        Java, HTML5, CSS e JavaScript. Gosto muito de estudar as ferramentas de tecnologia desde as de programação e de desenvolvimento, acredito que meus trabalhos anteriores mesmo que não             relacionados a          area     de TI, me ajudaram a desenvolver habilidades essenciais como criatividade, comunicação, liderança, foco em detalhes e lógica.<br>
           <h3>Interesses pessoais:</h3>
           Sou apaixonado por pesquisar atualidades e coisas novas relacionadas a area. Acredito que esses interesses ampliam minha percepção e me ajudam a encontrar soluções criativas e inovadoras no dia a           dia!<br>
