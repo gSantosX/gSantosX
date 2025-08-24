@@ -30,7 +30,7 @@ Sou apaixonado por pesquisar atualidades e coisas novas relacionadas a area. Acr
 
 <!-- Portfolio -->
 ## Portfolio:
-- [Auto Excellence System](https://github.com/gSantosX/AutoExcellenceSistema.git)
+- [Auto Excellence System](https://github.com/gSantosX/Projeto-OS-Funilaria.git)
 
 <!-- GIF -->
 <p style="text-align: center;">
