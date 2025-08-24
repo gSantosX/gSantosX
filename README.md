@@ -53,11 +53,11 @@
     </p>
   </ul>
 </div>
-
-## 🔥 Skills
+##
 <!-- Skills: Programming Languages -->
   <div style="flex-basis: 48%; id="user-content-toc">
      <ul align="center">
+        <h2>🔥 Skills</h2>
         <h3>Programming Languages</h3>
         <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
         <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
