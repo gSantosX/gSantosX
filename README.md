@@ -46,7 +46,7 @@
      <ul align="center">
         <h2>Projetos: </h2>
            <p>
-            * [Auto Excellence System](https://github.com/gSantosX/Projeto-OS-Funilaria.git)
+            <a href="https://github.com/gSantosX/Projeto-OS-Funilaria.git">Auto Excellence System</a>
            </p>
      </ul>
   </div>
