@@ -1,7 +1,7 @@
 <!--título-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hello World 👍</h1></summary>
+    <summary><h1 style="display: inline-block"><u>Hello World 👍</u></h1></summary>
 </div>
 
 <!-- Presentation -->
@@ -9,7 +9,7 @@
   <ul align="center">
     <p>
     Olá! 👋<br>
-    Meu nome é Gustavo, sou estudante de Análise e Desenvolvimento de Sistemas na Unicesumar (3º período) e um entusiasta da tecnologia. Atualmente, busco minha primeira oportunidade na área de front-end,      onde pretendo aplicar e expandir meus conhecimentos em desenvolvimento web. Meu objetivo a médio/longo prazo é me tornar um desenvolvedor full-stack, contribuindo com soluções completas e inovadoras.       Estou sempre aberto a novos aprendizados e desafios!<br>😊
+    Meu nome é Gustavo, sou estudante de <u>Análise e Desenvolvimento de Sistemas</u> na Unicesumar (3º período) e um entusiasta da tecnologia. Atualmente, busco minha primeira oportunidade na área de front-end,      onde pretendo aplicar e expandir meus conhecimentos em desenvolvimento web. Meu objetivo a médio/longo prazo é me tornar um desenvolvedor full-stack, contribuindo com soluções completas e inovadoras.       Estou sempre aberto a novos aprendizados e desafios!<br>😊
       <p style="align: center">
         <img width="500" height="300" alt="html5" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
       </p>
