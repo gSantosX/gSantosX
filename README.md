@@ -11,7 +11,7 @@
     Olá! 👋<br>
     Meu nome é Gustavo, sou estudante de <u>Análise e Desenvolvimento de Sistemas</u> na Unicesumar (3º período) e um entusiasta da tecnologia. Atualmente, busco minha primeira oportunidade na área de front-end,      onde pretendo aplicar e expandir meus conhecimentos em desenvolvimento web. Meu objetivo a médio/longo prazo é me tornar um desenvolvedor full-stack, contribuindo com soluções completas e inovadoras.       Estou sempre aberto a novos aprendizados e desafios!<br>😊
       <p style="align: center">
-        <img height="295" alt="html5" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
+        <img alt="html5" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
       </p>
     </p>
   </ul>
