@@ -41,16 +41,12 @@
 ![gSantosX GitHub stats](https://github-readme-stats.vercel.app/api?username=gSantosX&show_icons=true&theme=gotham)
 <img width="505" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gSantosX&layout=compact&langs_count=7&theme=gotham"/>
 
-<!-- Portfolio -->
-<div id="user-content-toc" style="flex-basis: 48%; text-align: center;">
-    <h2>Projetos:</h2>
-    <ul style="list-style: none; padding: 0;">
-        <li>
-            <a href="https://github.com/gSantosX/Projeto-OS-Funilaria.git" target="_blank">
-                Auto Excellence System
-            </a>
-        </li>
-    </ul>
+<!-- Portfolio --> 
+<div style="flex-basis: 48%; id="user-content-toc">
+  <ul align="center">
+   <h2>Projetos: </h2>
+   <p> <a href="https://github.com/gSantosX/Projeto-OS-Funilaria.git">Auto Excellence System</a><br></p>
+  </ul>
 </div>
 
 <!-- GIF -->
