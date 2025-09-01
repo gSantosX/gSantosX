@@ -38,7 +38,7 @@
     
 <!-- GithubStats -->
 ![gSantosX GitHub stats](https://github-readme-stats.vercel.app/api?username=gSantosX&show_icons=true&theme=gotham)
-<img width="505" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gSantosX&layout=compact&langs_count=7&theme=gotham"/>
+<img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gSantosX&layout=compact&langs_count=7&theme=gotham"/>
 
 <!-- Portfolio --> 
 <div style="flex-basis: 48%; id="user-content-toc">
