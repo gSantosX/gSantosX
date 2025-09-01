@@ -44,7 +44,7 @@
 <div style="flex-basis: 48%; id="user-content-toc">
   <ul align="center">
    <h2>Projetos: </h2>
-   <p>[Auto Excellence System](https://github.com/gSantosX/Auto-Excellence-System)<br></p>
+   <p>[Auto-Excellence-System](https://github.com/gSantosX/Auto-Excellence-System)<br></p>
   </ul>
 </div>
 
