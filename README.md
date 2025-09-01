@@ -9,7 +9,7 @@
   <ul align="center">
     <p>
     Olá! 👋<br>
-    Meu nome é Gustavo, sou estudante de <u>Análise e Desenvolvimento de Sistemas</u> na Unicesumar (3º período) e um entusiasta da tecnologia. Atualmente, busco minha primeira oportunidade na área de front-end,      onde pretendo aplicar e expandir meus conhecimentos em desenvolvimento web. Meu objetivo a médio/longo prazo é me tornar um desenvolvedor full-stack, contribuindo com soluções completas e inovadoras.       Estou sempre aberto a novos aprendizados e desafios!<br>😊
+    Meu nome é Gustavo, sou estudante de <u>Análise e Desenvolvimento de Sistemas</u> na Unicesumar (3º período) e um entusiasta da tecnologia. Atualmente, busco minha primeira oportunidade na área de desenvolvimento back-end, onde pretendo aplicar e aprofundar meus conhecimentos em lógica de programação, bancos de dados e integração de sistemas. Meu objetivo a médio/longo prazo é me tornar um desenvolvedor full-stack, capaz de entregar soluções completas e eficientes. Estou sempre aberto a novos aprendizados, desafios e tecnologias que aprimorem minhas habilidades.<br>😊
       <p style="align: center">
         <img align="center" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZjJ5czFib2hnMnNnaXZ3NmhqM3F3dmxydTk5Y3E5OXF2d2llMTJ6eSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif"alt="Imagem">
       </p>
