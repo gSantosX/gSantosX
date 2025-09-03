@@ -44,7 +44,7 @@
 <div style="flex-basis: 48%; id="user-content-toc">
   <ul align="center">
    <h2>Projetos: </h2>
-   <h3><strong>As atualizações dos projetos, são feitas todos os domingos!</strong></h3>
+   <h3><strong>As atualizações dos projetos são feitas todos os domingos (somente)!</strong></h3>
    <p>[Auto-Excellence-System](https://github.com/gSantosX/Auto-Excellence-System)<br></p>
   </ul>
 </div>
